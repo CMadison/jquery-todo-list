@@ -1,6 +1,7 @@
 h1 {
   font-size: 75px;
   text-align: center;
+  color: white;
 }
 input {
   max-width: 900px;
@@ -41,12 +42,19 @@ div {
   text-align: center;
 }
 li {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 20px auto;
   padding: 10px;
   max-width: 50%;
   text-align: center;
+  color: white;
+  font-size: 40px;
 }
 form {
   display: inline-block;
 }
+body {
+  background: url(http://d.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/11/3021379-poster-p-1-the-curious-tale-of-the-to-do-list-and-how-to-craft-one-that-actually-works.jpg) no-repeat;
+  background-size: cover;
+}
+
